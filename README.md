@@ -8,6 +8,8 @@ Internal-first staffing (a group's own team gets first pick, then the marketplac
 - **Release too early** → the marketplace fills shifts your own team would have taken, and temp spend rises.
 - **One default doesn't fit every marketplace**: a large DSO with a deep float pool, a group new to internal-first, and an independent practice with no pool need very different windows.
 
+**Live demo:** https://dso-cascade-tuner.vercel.app
+
 Cascade Tuner simulates the trade-off for each role, recommends windows inside the guardrails you set, and drafts the options memo for leadership.
 
 ![Cascade Tuner screenshot](docs/img/screenshot.png)
